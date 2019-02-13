@@ -17,8 +17,8 @@ iframe {
 #gameArea {
     overflow: hidden;
     position: relative;
-    height: 92.6vh;
-    width: 100vw;
+    height: 80vh;
+    width: 90vw;
     margin: 0 auto;
 }
 
